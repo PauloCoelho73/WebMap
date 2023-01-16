@@ -1,0 +1,1 @@
+var json_EscolaAventura_5 = {"type":"FeatureCollection","name":"EscolaAventura_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"5","POI":"Escola Aventura","CNS":null},"geometry":{"type":"Point","coordinates":[-7.461227744052744,40.540479471276598]}}]}
