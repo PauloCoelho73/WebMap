@@ -1,0 +1,1 @@
+var json_CasadoParapentista_6 = {"type":"FeatureCollection","name":"CasadoParapentista_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"7","CNS":null,"Casa do Pa":"Casa do Pa"},"geometry":{"type":"Point","coordinates":[-7.461036645571959,40.539579474939593]}}]}
